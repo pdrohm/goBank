@@ -1,0 +1,7 @@
+# .gitignore
+*.log
+*.out
+.idea/
+/bin/
+/vendor/
+/__pycache__/
